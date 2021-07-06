@@ -44,3 +44,8 @@ section {
   background-repeat: no-repeat;
   background-position: right;
 }
+
+.mid-banner p {
+  padding: 2px;
+  margin-right: 25px;
+}
